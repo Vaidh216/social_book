@@ -1,1 +1,4 @@
+import django
+
 print("hello")
+
